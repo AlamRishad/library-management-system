@@ -1,0 +1,71 @@
+body{
+    background-image: url(../Image/pexels-jess-bailey-designs-743986.jpg) ;
+    background-size: 88%;     
+}
+.box1 h1{ 
+     width: 100%;
+    height: auto;
+    font-size: 79px;
+    padding-bottom:30px;
+    padding-top: 20px;
+    padding-left:20px; 
+}
+
+
+.conteiner form{
+    width: 50%;
+    margin: auto;
+    background-image: url(../Image/pexels-jess-bailey-designs-743986.jpg);
+    padding: 20px;  
+    background-size:1%;
+   
+}
+.conteiner {
+    text-align: center;
+    font-size: 30px; 
+    color : black;
+     border:20px ;
+    line-height: 1.1em;
+}
+ a{
+    text-decoration: none ;
+    color:black;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:green;
+}
+
+.box2 input{
+    font-size: 20px; 
+    color : black; 
+    background-color: papayawhip;  
+}
+.button input{
+    border-style:double;
+    border-radius: 100%;
+    font-size: 20px;
+    
+    padding: 20px;
+    border-color: #ffff00;
+    
+    background-color: #ffff00;
+}
+
+.button input:hover{
+     color:red;
+}
+.button input:active{
+     color:green;
+}
+.box2 button{
+   
+    font-size: 20px;
+    padding: 10px;
+    border-color: #ffff00;
+   
+    background-color: #ffff00; 
+    
+}

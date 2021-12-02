@@ -1,0 +1,45 @@
+body{
+    background-image: url(../Image/pexels-jess-bailey-designs-743986.jpg) ;
+    background-size: 88%;     
+}
+.box1 h1{ 
+     width: 100%;
+    height: auto;
+    font-size: 79px;
+    padding-bottom:30px;
+    padding-top: 20px;
+    padding-left:20px; 
+}
+
+.box2 button{
+   
+    font-size: 50px;
+    padding: 20px;
+    border-color: #ffff00;
+    margin: 1em;
+    background-color: #ffff00; 
+    
+}
+button{
+    border-style:double;
+    border-radius: 50%;
+}
+
+a{
+    text-decoration: none ;
+    color:black;
+    
+    
+}
+a:hover{
+    color:white;
+}
+a:active{
+    color:green;
+}
+
+.box2 input{
+    font-size: 20px; 
+    color : black; 
+    background-color: white;  
+}

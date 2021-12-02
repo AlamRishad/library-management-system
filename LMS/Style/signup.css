@@ -1,0 +1,54 @@
+body{
+    background-image: url(../Image/pexels-jess-bailey-designs-743986.jpg) ;
+    background-size: 88%;     
+}
+.box1 h1{
+    background-color: white;
+    color: #a0a0a0;
+     width: 100%;
+    height: auto;
+    font-size: 79px;
+    padding-bottom:30px;
+    padding-top: 20px;
+}
+.button{
+    padding 20px;
+    width: 30%;
+    border:none;
+}
+.button{
+    text-decoration: none ;
+    color:black;
+}
+.button:hover{
+    color:red;
+}
+.button:active{
+    color:green;
+}
+.my-form .form_gender input {
+   margin-left: 1em;
+}
+.conteiner form{
+      width: 40%;
+    margin: auto;
+    background-image: url(../Image/pexels-jess-bailey-designs-743986.jpg);
+    padding: 20px;  
+    background-size:1%;}
+.conteiner {
+    
+    font-size: 25px; 
+    line-height: 1.1em;
+}
+.my-form{
+    padding: 20px;
+}
+.my-form .form_group {
+    padding-bottom:20px;
+    text-align: justify;
+}
+.my-form .form_group input {
+    padding:8px;
+    width : 90%;
+}
+
